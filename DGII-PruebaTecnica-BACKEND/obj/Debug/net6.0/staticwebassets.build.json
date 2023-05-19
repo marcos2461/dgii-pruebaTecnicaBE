@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "0n3LDjIgnIqSkhXb2VlmGLClQaTo/siijj1eHn0jM2s=",
+  "Source": "DGII-PruebaTecnica.Web",
+  "BasePath": "_content/DGII-PruebaTecnica.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\marco\\source\\repos\\DGII-PruebaTecnica-BACKEND\\DGII-PruebaTecnica.Core\\DGII-PruebaTecnica.Core.csproj",
+      "Version": 2,
+      "Source": "DGII-PruebaTecnica.Core",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\source\\repos\\DGII-PruebaTecnica-BACKEND\\DGII-PruebaTecnica.Infrastructure\\DGII-PruebaTecnica.Infrastructure.csproj",
+      "Version": 2,
+      "Source": "DGII-PruebaTecnica.Infrastructure",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

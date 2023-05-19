@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ujm2rELcI299Td4VOyExfW3EHtatCmudvsgQwCABvOvnBIr8+hxsFmNHqUwM8sT/iXue96z8WRPoKwNwJIImrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\source\\repos\\DGII-PruebaTecnica-BACKEND\\DGII-PruebaTecnica.Core\\DGII-PruebaTecnica.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

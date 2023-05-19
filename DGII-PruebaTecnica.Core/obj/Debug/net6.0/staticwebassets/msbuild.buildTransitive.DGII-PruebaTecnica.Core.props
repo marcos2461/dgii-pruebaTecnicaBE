@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DGII-PruebaTecnica.Core.props" />
+</Project>
